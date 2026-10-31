@@ -2726,17 +2726,6 @@
 		<Primary>0</Primary>
 	</Contact>
 	<Contact>
-		<id>716</id>
-		<FirstName>Timo Miller</FirstName>
-		<Frequent>0</Frequent>
-		<Phone type="Cell">
-			<phonenumber>7176969000</phonenumber>
-			<accountindex>0</accountindex>
-		</Phone>
-		<Group>37</Group>
-		<Primary>0</Primary>
-	</Contact>
-	<Contact>
 		<id>687</id>
 		<FirstName>Tod Mast</FirstName>
 		<LastName>Mill Creek MFG</LastName>
