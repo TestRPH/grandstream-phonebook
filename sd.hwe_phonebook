@@ -1,1 +1,3963 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook>
+	<pbgroup>
+		<id>1</id>
+		<name>Blacklist</name>
+	</pbgroup>
+	<pbgroup>
+		<id>2</id>
+		<name>Buddies</name>
+		<ringtones>system</ringtones>
+	</pbgroup>
+	<pbgroup>
+		<id>3</id>
+		<name>Buddy Guys</name>
+		<ringtones>system</ringtones>
+	</pbgroup>
+	<pbgroup>
+		<id>4</id>
+		<name>Buddy Girls</name>
+		<ringtones>system</ringtones>
+	</pbgroup>
+	<pbgroup>
+		<id>5</id>
+		<name>Stoltzfus Power</name>
+		<ringtones>system</ringtones>
+	</pbgroup>
+	<pbgroup>
+		<id>6</id>
+		<name>Youth Group</name>
+		<ringtones>system</ringtones>
+	</pbgroup>
+	<pbgroup>
+		<id>7</id>
+		<name>Vendors</name>
+		<ringtones>system</ringtones>
+	</pbgroup>
+	<pbgroup>
+		<id>8</id>
+		<name>Drivers</name>
+		<ringtones>system</ringtones>
+	</pbgroup>
+	<pbgroup>
+		<id>9</id>
+		<name>ABC Practitioners+</name>
+	</pbgroup>
+	<pbgroup>
+		<id>10</id>
+		<name>Non-Emergency Phone Numbers</name>
+	</pbgroup>
+	<pbgroup>
+		<id>13</id>
+		<name>Delivery Services</name>
+	</pbgroup>
+	<pbgroup>
+		<id>14</id>
+		<name>Family</name>
+	</pbgroup>
+	<Contact>
+		<id>2977</id>
+		<LastName>Dale Martin</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>2233330903</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2978</id>
+		<LastName>HELP</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8002401349</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2979</id>
+		<LastName>New Shop IP</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>50.107.149.48:5060</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2980</id>
+		<LastName>Room</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>25</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2981</id>
+		<LastName>Room</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>15</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2982</id>
+		<LastName>Room</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>0</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2983</id>
+		<LastName>Room</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>4</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2984</id>
+		<LastName>Room</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>30</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2985</id>
+		<LastName>Room</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>20</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2986</id>
+		<LastName>Room</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>97</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2987</id>
+		<LastName>Room</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>96</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2988</id>
+		<LastName>Weather Print</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>6064485107</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2989</id>
+		<FirstName>6417153800</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>6417153800</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2990</id>
+		<FirstName>8  Joe S</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4849432249</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2991</id>
+		<FirstName>9 to 5 Delivery</FirstName>
+		<LastName>Nine to Five</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7176292117</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>13</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2997</id>
+		<FirstName>ABC II</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2033662746</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>9</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3001</id>
+		<FirstName>ALANA</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>3862351413</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3024</id>
+		<FirstName>ASI</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177680001</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2992</id>
+		<FirstName>Aaron &amp; Barbie</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>8142790520</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2993</id>
+		<FirstName>Aaron &amp; Katie Stol</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7177401393</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2994</id>
+		<FirstName>Aaron (Cuz)</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7174199598</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2995</id>
+		<FirstName>Aaron Shank</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4846724147</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2996</id>
+		<FirstName>Aaron Stoltzfus</FirstName>
+		<LastName>FP</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4845164485</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2998</id>
+		<FirstName>Account balance</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>*225</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2999</id>
+		<FirstName>Adam Alguyer</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7175892600</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3000</id>
+		<FirstName>Administration</FirstName>
+		<LastName>None Emer. Contact</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7176641100</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3002</id>
+		<FirstName>Allen E. King</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7177680398</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3004</id>
+		<FirstName>Allen King</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>8143494358</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3003</id>
+		<FirstName>Allen fax</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7179366006</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3005</id>
+		<FirstName>Altech Enterprizes</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7174450408</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3006</id>
+		<FirstName>Alvin Lapp</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7175989920</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3328</id>
+		<FirstName>Amish google</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>18778535004</phonenumber>
+			<accountindex>3</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3007</id>
+		<FirstName>Ammon &amp; Mary</FirstName>
+		<LastName>Uncle</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>2708862907</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3008</id>
+		<FirstName>Ammon &amp; Sarah</FirstName>
+		<LastName>(Cuz)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7175176004</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3009</id>
+		<FirstName>Amos &amp; Barbie King</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7175353848</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<address/>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3010</id>
+		<FirstName>Amos &amp; Katie</FirstName>
+		<LastName>(Cuz)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7175156703</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3011</id>
+		<FirstName>Amos &amp; Lomy</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7173549463</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3012</id>
+		<FirstName>Amos &amp; Rachel</FirstName>
+		<LastName>(Cuz)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7175980902</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Phone type="Work">
+			<phonenumber>7176064229</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3013</id>
+		<FirstName>Amos &amp; Sadie</FirstName>
+		<LastName>Uncle</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7177680884</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3014</id>
+		<FirstName>Amos Stoltzfus</FirstName>
+		<LastName>52 Country Ln.</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>6102737225</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3015</id>
+		<FirstName>Amos Stoltzfus</FirstName>
+		<LastName>KY</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>2704664105</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3016</id>
+		<FirstName>Amos Stoltzfus</FirstName>
+		<LastName>VM Number</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7176078815</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3017</id>
+		<FirstName>Amos Stoltzfus KY</FirstName>
+		<LastName>Grandstream</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>27031753188</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3018</id>
+		<FirstName>Amos&amp;Sarah Beiler</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7176875188</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3019</id>
+		<FirstName>Andy &amp; Mary Jane</FirstName>
+		<LastName>Ebersol</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7173784454</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3020</id>
+		<FirstName>Andy Miller</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7178478998</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3021</id>
+		<FirstName>Annie Esh</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7178478488</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>4</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3022</id>
+		<FirstName>Anthony &amp; Laura</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7175045519</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3023</id>
+		<FirstName>Arlan Stoltzfus</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173222346</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3327</id>
+		<FirstName>Armor of light</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7176709969</phonenumber>
+			<accountindex>3</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3025</id>
+		<FirstName>Barbie King</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7176261260</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>4</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3026</id>
+		<FirstName>Barbie Stoltzfus</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7174424381</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>4</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3027</id>
+		<FirstName>Becky Peck</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173300327</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3028</id>
+		<FirstName>Ben Martin</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7173368808</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3029</id>
+		<FirstName>Ben&apos;s Produce</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7178755085</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3030</id>
+		<FirstName>Benuel</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>6102733806</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3031</id>
+		<FirstName>Benuel @</FirstName>
+		<LastName>Stoltzfus Power</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7175174717</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>5</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3032</id>
+		<FirstName>Bill Watson</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7179478992</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3033</id>
+		<FirstName>Blissfultreats Caf</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7176567059</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3034</id>
+		<FirstName>Brad</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7654047056</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3035</id>
+		<FirstName>Brandywine Woodwor</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>6102733395</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3036</id>
+		<FirstName>Brantley</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>5707685329</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3037</id>
+		<FirstName>Buck Run</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>6108579007</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3038</id>
+		<FirstName>CAROLINAS CURRENT</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7049099154</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3039</id>
+		<FirstName>CB Solar</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7176876239</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3053</id>
+		<FirstName>CR</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>1345</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3040</id>
+		<FirstName>Chad</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7176217127</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3042</id>
+		<FirstName>Chad Tracphone</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173687981</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3041</id>
+		<FirstName>Chad new</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7172224608</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3043</id>
+		<FirstName>Chester&apos;s Stevies </FirstName>
+		<LastName>xCo Fannie, Anna</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7177150254</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3044</id>
+		<FirstName>Chestnut Hill Auto</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7174454516</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3045</id>
+		<FirstName>Chris Mast</FirstName>
+		<LastName>ext 1</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>6416641802</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3046</id>
+		<FirstName>Chris Stoltzfus</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173215863</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3047</id>
+		<FirstName>Christies</FirstName>
+		<LastName>(Uncle)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7174681358</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3048</id>
+		<FirstName>Christy</FirstName>
+		<LastName>(Aaron) Cuz</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>6203140728</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3049</id>
+		<FirstName>Chuck</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>8283888808</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3050</id>
+		<FirstName>Conestoga Woodwork</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8004454669</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3051</id>
+		<FirstName>Country Boy</FirstName>
+		<LastName>(mold)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177395596</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3052</id>
+		<FirstName>County Line</FirstName>
+		<LastName>Equipment</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>6105935555</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3054</id>
+		<FirstName>D S Machine</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177683853</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3061</id>
+		<FirstName>DANIEL @ GNT</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7178035355</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3055</id>
+		<FirstName>Dale Larocco</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>5168499519</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3056</id>
+		<FirstName>Dan Kling</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7172030595</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3057</id>
+		<FirstName>Dana Kreider</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7172838275</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3058</id>
+		<FirstName>Daniel</FirstName>
+		<LastName>Group Leader</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7172010557</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3059</id>
+		<FirstName>Daniel </FirstName>
+		<LastName>Grandview Circle</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7173400905</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3060</id>
+		<FirstName>Daniel @</FirstName>
+		<LastName>Powerstream</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173715305</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3062</id>
+		<FirstName>Daniel&apos;s driver</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4844018615</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3063</id>
+		<FirstName>Dannie</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4845001540</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3064</id>
+		<FirstName>Dannie Jr</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4843641495</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3065</id>
+		<FirstName>Daudy rental flip</FirstName>
+		<RingtoneUrl>ring3.ogg</RingtoneUrl>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>2233075558</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3066</id>
+		<FirstName>Dave</FirstName>
+		<LastName>Drywall</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7176697737</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3067</id>
+		<FirstName>Dave &amp; Mary Fisher</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>3044920095</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3068</id>
+		<FirstName>Dave (Wellspring)</FirstName>
+		<LastName>IT Contractor</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7176821020</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3069</id>
+		<FirstName>Dave Cuskey</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173271900</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3070</id>
+		<FirstName>Dave Hostetler</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7176826422</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3071</id>
+		<FirstName>Dave Kight</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173817288</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3072</id>
+		<FirstName>David </FirstName>
+		<LastName>Sunglasses</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7174059856</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3073</id>
+		<FirstName>David  Beiler @</FirstName>
+		<LastName>Stoltzfus Power</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7172090485</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>5</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3074</id>
+		<FirstName>David &amp; Emma</FirstName>
+		<LastName>Fisher</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7178241336</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3075</id>
+		<FirstName>David Bercot</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>6474624</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3076</id>
+		<FirstName>David Esh</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7175356500</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3077</id>
+		<FirstName>David Hoover</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7179843967</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3078</id>
+		<FirstName>David King</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173715279</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3079</id>
+		<FirstName>Davie &amp; Susie</FirstName>
+		<LastName>Pud</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7177687472</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3080</id>
+		<FirstName>Davie J</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7178753773</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3081</id>
+		<FirstName>Dick Barge</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7174715258</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3082</id>
+		<FirstName>Double E Cariages</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177688484</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3083</id>
+		<FirstName>Dutch</FirstName>
+		<LastName>Delivery</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7175986409</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>13</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3084</id>
+		<FirstName>Eagle Ridge Enterp</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7175253408</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3085</id>
+		<FirstName>Edge Electronics</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177332633</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3086</id>
+		<FirstName>Electric Inovation</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7176281528</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<extra_element/>
+		<address/>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3087</id>
+		<FirstName>Eli Esh</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>8144131188</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3088</id>
+		<FirstName>Elite Tech</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7172240067</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3089</id>
+		<FirstName>Elmer &amp; Anna</FirstName>
+		<LastName>Uncle</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7179848947</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3090</id>
+		<FirstName>Elmer &amp; Sadie King</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>2232218471</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3091</id>
+		<FirstName>Elmer (Cuz)</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7174663217</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3092</id>
+		<FirstName>Emma Zook</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>2232212639</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>4</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3094</id>
+		<FirstName>Energi House</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>5748251577</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3095</id>
+		<FirstName>Enviro Cool</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7174562500</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3096</id>
+		<FirstName>Ephraim	Stoltzfus</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7175560581</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3097</id>
+		<FirstName>Erin</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7178262349</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3098</id>
+		<FirstName>Ervin Bieler</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7179514728</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3099</id>
+		<FirstName>Esh Grocery &amp; Deli</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177687811</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3100</id>
+		<FirstName>Esh Hardware</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177688497</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3101</id>
+		<FirstName>Ester Schwartz</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7176758683</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3102</id>
+		<FirstName>Even Showwalter</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7174194858</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3103</id>
+		<FirstName>Exel Built</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2703505745</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3104</id>
+		<FirstName>Extention 160</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173414963</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3107</id>
+		<FirstName>FIRABRAND</FirstName>
+		<LastName>Specialties</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7179408675</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3105</id>
+		<FirstName>Factorymation</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8009720436</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3106</id>
+		<FirstName>Falcon Engine</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>5746424353</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3108</id>
+		<FirstName>Fire/EMS Dispatch</FirstName>
+		<LastName>None Emer. Contact</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7176641190</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3109</id>
+		<FirstName>Fisher MFG</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177680155</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3110</id>
+		<FirstName>Flowroute</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8553569768</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3119</id>
+		<FirstName>GMG</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>5186</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3120</id>
+		<FirstName>GO GO Grandparent</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8554646872</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3122</id>
+		<FirstName>GREAT NEEDS TRUST</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7174553622</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3111</id>
+		<FirstName>Gap Power</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7174428970</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3112</id>
+		<FirstName>Gary</FirstName>
+		<LastName>Stirling</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4848898807</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>8</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3113</id>
+		<FirstName>George</FirstName>
+		<LastName>Driver</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7174318341</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>8</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3114</id>
+		<FirstName>Georgetown</FirstName>
+		<LastName>Hydralics</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>6105932753</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3115</id>
+		<FirstName>Gideon &amp; Eva</FirstName>
+		<LastName>(Cuz)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>2706322350</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3116</id>
+		<FirstName>Gideon &amp; Leah</FirstName>
+		<LastName>Uncle</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7176875612</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3117</id>
+		<FirstName>Gideon (Cuz)</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7179478957</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3118</id>
+		<FirstName>Gideon @ Powerstre</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7174825404</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3121</id>
+		<FirstName>Gospel hotline</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>139785</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3123</id>
+		<FirstName>Greenland Conrstru</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177235053</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3124</id>
+		<FirstName>Greg Mobile</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>5165107790</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3125</id>
+		<FirstName>Harmonica</FirstName>
+		<LastName>Room</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>99</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3126</id>
+		<FirstName>Harmonica Hotline</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>2349005096</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3127</id>
+		<FirstName>Harmonica Warehous</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>3302312418</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3128</id>
+		<FirstName>Henry Esh</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7172952410</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>3</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3129</id>
+		<FirstName>Henry Stoltzfus</FirstName>
+		<LastName>4025 Homeville RD</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>6107197129</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Phone type="Work">
+			<phonenumber>4439673136</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3130</id>
+		<FirstName>Hotwire</FirstName>
+		<LastName>Electronics</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7176968754</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3132</id>
+		<FirstName>IDK</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>4584635</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3139</id>
+		<FirstName>ISRAEL</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>4106581506</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3131</id>
+		<FirstName>Ideal Lighting</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7174424605</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3133</id>
+		<FirstName>Ike</FirstName>
+		<LastName>King</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>2708105054</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3134</id>
+		<FirstName>Intercourse</FirstName>
+		<LastName>Library</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177683160</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3135</id>
+		<FirstName>Irishtown Handyman</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7176177729</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3136</id>
+		<FirstName>Isaac &amp; Sarah</FirstName>
+		<LastName>(Cuz)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7178083966</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3137</id>
+		<FirstName>Isaac Stoltzfus</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>2232666120</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3138</id>
+		<FirstName>Isaac Uncle</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7174066860</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3140</id>
+		<FirstName>J Daniel</FirstName>
+		<LastName>Stoltzfus MFG</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>6102231874</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3141</id>
+		<FirstName>Jacob Raber</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>5022090361</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3142</id>
+		<FirstName>Jada Pay</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7178748205</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3143</id>
+		<FirstName>Jake &amp; Sadie</FirstName>
+		<LastName>Uncle</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7177687470</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3144</id>
+		<FirstName>Jay&apos;s Equine</FirstName>
+		<LastName>Service</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7174067840</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3145</id>
+		<FirstName>Jeremy Dewit</FirstName>
+		<LastName>ABC</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>3028030391</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>9</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3146</id>
+		<FirstName>Jerry Stoltzfus</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>2702719280</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3147</id>
+		<FirstName>Jesse Jutkowitz</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>2039130717</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>9</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3148</id>
+		<FirstName>Jesse Smucker</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7179179595</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3149</id>
+		<FirstName>Jim Marvel</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7177190663</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3150</id>
+		<FirstName>Joe</FirstName>
+		<LastName>Wyoming</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>3074238676</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3151</id>
+		<FirstName>John Cuz</FirstName>
+		<LastName>SMP</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2703505311</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3152</id>
+		<FirstName>John Ebersol</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7175157317</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3153</id>
+		<FirstName>John Harper</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7178238885</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3154</id>
+		<FirstName>John OJ</FirstName>
+		<LastName>Powerstream</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7176820087</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3155</id>
+		<FirstName>Jonas Jr.</FirstName>
+		<LastName>Land Lord</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7172782965</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3156</id>
+		<FirstName>Jonas Jr. &amp; Naomi </FirstName>
+		<LastName>Cuz</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7179256688</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3157</id>
+		<FirstName>Jonathon Fisher</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2232780075</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3158</id>
+		<FirstName>Jonathon Yoder</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4064716725</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3159</id>
+		<FirstName>Jonny &amp; Fannie</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7177690488</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3160</id>
+		<FirstName>Josia </FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7176611729</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3163</id>
+		<FirstName>KC Inovations</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8882908920</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3164</id>
+		<FirstName>KC Inovations OLD</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8126363684</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3167</id>
+		<FirstName>KY ORGANIC FARM</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2702655004</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3161</id>
+		<FirstName>Katie (Cuz)</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7174681673</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3162</id>
+		<FirstName>Katie Smucker</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>6102733598</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>4</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3165</id>
+		<FirstName>Kim Hart</FirstName>
+		<LastName>Daudies&apos; Apartment</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4849994095</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3166</id>
+		<FirstName>Kristina Steely</FirstName>
+		<LastName>Chad&apos;s wife</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7176217013</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3168</id>
+		<FirstName>Kyson</FirstName>
+		<LastName>Scott&apos;s Wife</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7573102414</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3185</id>
+		<FirstName>LL Electrical Supp</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7174888111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3186</id>
+		<FirstName>LOK</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>7207081360</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3169</id>
+		<FirstName>Lancaster</FirstName>
+		<LastName>Harmonica Line</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>7177783323</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3170</id>
+		<FirstName>Lancaster Lanterns</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7173404678</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3171</id>
+		<FirstName>Lauren</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>2154793711</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>8</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3172</id>
+		<FirstName>Lavina (Cuz)</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7174688541</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3173</id>
+		<FirstName>Leacock Sports</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177687007</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3174</id>
+		<FirstName>Lena Stoltzfus</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7178751344</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>4</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3175</id>
+		<FirstName>Leo Valmonte</FirstName>
+		<LastName>Nooner&apos;s Ice</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7172019406</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3176</id>
+		<FirstName>Leon Fisher</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173146894</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3177</id>
+		<FirstName>Leon Lapp</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173146332</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3178</id>
+		<FirstName>Levi Byler</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7178741701</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3179</id>
+		<FirstName>Levi Fisher</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7175277700</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3180</id>
+		<FirstName>Levi Micah Esh</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173273365</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3181</id>
+		<FirstName>Levi Stoltzfus</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>2703653588</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3182</id>
+		<FirstName>Lightning</FirstName>
+		<LastName>Electronics</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7172535892</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3183</id>
+		<FirstName>Linda King</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>8143492297</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3184</id>
+		<FirstName>Linda King</FirstName>
+		<LastName>155-A Herr Rd</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7176877386</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3187</id>
+		<FirstName>Lydia Cuz</FirstName>
+		<LastName>(Caleb)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7174196138</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3188</id>
+		<FirstName>M Tech</FirstName>
+		<LastName>Hotline</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>5853265041</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3189</id>
+		<FirstName>M Tech Weather</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8143085074</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3190</id>
+		<FirstName>M-Tech</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>3158287799</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3191</id>
+		<FirstName>Mannie King</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7173685218</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3192</id>
+		<FirstName>Marcus</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7175006173</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3193</id>
+		<FirstName>Mark</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7172029844</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3194</id>
+		<FirstName>Mark (big boy)</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>6109381213</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3195</id>
+		<FirstName>Mark Stetler</FirstName>
+		<LastName>Driver</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>6317644424</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>8</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3196</id>
+		<FirstName>Mark Witson</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4844691225</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>5</Group>
+		<Group>8</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3197</id>
+		<FirstName>Mary (Cuz)</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7174198536</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3198</id>
+		<FirstName>Maryann Robins</FirstName>
+		<LastName>Eastbrook Wellspri</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7178088060</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Phone type="Home">
+			<phonenumber>7177791711</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3199</id>
+		<FirstName>Matthew </FirstName>
+		<LastName>text</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177239339</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3200</id>
+		<FirstName>Matthew (Cuz)</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173270374</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3201</id>
+		<FirstName>Matthew Beiler</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7177239066</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3202</id>
+		<FirstName>Mel Lapp </FirstName>
+		<LastName>Grandstream</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7178625236</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3203</id>
+		<FirstName>Melvin @</FirstName>
+		<LastName>Stoltzfus Power</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7172540765</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>5</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3204</id>
+		<FirstName>Melvin Beiler</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177680127</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>3</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3205</id>
+		<FirstName>Melvin Zook</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7177331986</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>3</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3206</id>
+		<FirstName>Metalum</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>6102739007</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3207</id>
+		<FirstName>Michael &amp; Lydia</FirstName>
+		<LastName>(Cuz)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7173815240</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3208</id>
+		<FirstName>Micheal</FirstName>
+		<LastName>uncle</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173689618</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3209</id>
+		<FirstName>Michelle Robison</FirstName>
+		<LastName>ABC</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4847847758</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>9</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3210</id>
+		<FirstName>Midnite Power</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8776006688</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3211</id>
+		<FirstName>Midnite Solar</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>3604037207</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3212</id>
+		<FirstName>Midwest</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>7124328774</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3213</id>
+		<FirstName>Mike</FirstName>
+		<LastName>Cuz</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7178247095</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3214</id>
+		<FirstName>Mike AnthonyAllen </FirstName>
+		<LastName>KY</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>2708393555</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3215</id>
+		<FirstName>Mike Jackson</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4846316310</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>8</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3216</id>
+		<FirstName>Mike Roberts</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>5702791114</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3217</id>
+		<FirstName>Miller Tech</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8556295484</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3218</id>
+		<FirstName>Mint mobile</FirstName>
+		<LastName>8006837392</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8006837392</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3219</id>
+		<FirstName>Mom</FirstName>
+		<LastName>(Linda)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7174764794</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3220</id>
+		<FirstName>Moment of inspirat</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>8009395689</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3221</id>
+		<FirstName>Music</FirstName>
+		<LastName>Room</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>98</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3222</id>
+		<FirstName>My ABC Confrenc ID</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>22222</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>9</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3223</id>
+		<FirstName>N S Inovations</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7179556444</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<address/>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3230</id>
+		<FirstName>NS Innovations</FirstName>
+		<LastName>S22</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7179342880</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3224</id>
+		<FirstName>Nancy King</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>6105935111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3225</id>
+		<FirstName>Naomi Fisher</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7176537346</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>4</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3226</id>
+		<FirstName>Naomi Smucker</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7173719537</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3227</id>
+		<FirstName>Nathaniel Schwartz</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>2019758778</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Phone type="Cell">
+			<phonenumber>7174811340</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3228</id>
+		<FirstName>Newport Blacksmith</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177680401</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3229</id>
+		<FirstName>Norman King</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7174753575</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3231</id>
+		<FirstName>OCR</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>5913</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3232</id>
+		<FirstName>Omar &amp; Sylvia</FirstName>
+		<LastName>Cuz</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7173440122</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3233</id>
+		<FirstName>Omar Stoltzfus</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>6104774161</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3234</id>
+		<FirstName>PA Game Commision</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177877015</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3246</id>
+		<FirstName>PSH PW</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>83667</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3247</id>
+		<FirstName>PStream tm hotspt</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173304205</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3248</id>
+		<FirstName>PUD Hotline</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>7176562118</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3251</id>
+		<FirstName>PUPPY CUSTOMER</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>8567990210</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3235</id>
+		<FirstName>Parakeet Singing</FirstName>
+		<LastName>Hotline</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>7172240882</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3236</id>
+		<FirstName>Patricia</FirstName>
+		<LastName>(Samuel H) Cuz</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7175176170</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3237</id>
+		<FirstName>Paul Liz Petershei</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177687630</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3238</id>
+		<FirstName>Pequea Alternator</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7176879928</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3239</id>
+		<FirstName>Perry</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4848800306</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>5</Group>
+		<Group>8</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3240</id>
+		<FirstName>Phares Blank</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4845699456</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3241</id>
+		<FirstName>Phares Martin</FirstName>
+		<LastName>ABC</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>2232801316</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>9</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3242</id>
+		<FirstName>Police Dispatch</FirstName>
+		<LastName>None Emer. Contact</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7176641180</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3243</id>
+		<FirstName>Power Stream</FirstName>
+		<LastName>Sam David</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2232341290</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3244</id>
+		<FirstName>Powerstream</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177688500</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3245</id>
+		<FirstName>Progresive Automat</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8006766123</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<address/>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3249</id>
+		<FirstName>Pud Sam</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7176878194</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3250</id>
+		<FirstName>Pud Sam fax</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7176872589</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3252</id>
+		<FirstName>Pure Heart</FirstName>
+		<LastName>Ministriy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>787343278</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3257</id>
+		<FirstName>RDS</FirstName>
+		<LastName>Delivery</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7178022276</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>13</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3253</id>
+		<FirstName>Rachel Stoltzfus</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>6108579189</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>4</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3254</id>
+		<FirstName>Raymond</FirstName>
+		<LastName>@ Powerstream</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7174194479</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3255</id>
+		<FirstName>Raymond</FirstName>
+		<LastName>driver</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7173308901</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3256</id>
+		<FirstName>Raymond Martin</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>3046766180</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>8</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3258</id>
+		<FirstName>Rebecca</FirstName>
+		<LastName>CO worker</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4432997315</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3259</id>
+		<FirstName>Recordings</FirstName>
+		<LastName>ABC</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>684748</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>9</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3260</id>
+		<FirstName>Red Barn Market</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7175296040</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3261</id>
+		<FirstName>Reuben</FirstName>
+		<LastName>Stoltzfus MFG</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>4847961609</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3262</id>
+		<FirstName>Rich Petersheim</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>9312397360</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3263</id>
+		<FirstName>Rino Voltz</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8003152296</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3264</id>
+		<FirstName>Robert Buzzard</FirstName>
+		<LastName>Photagrapher</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>6108429644</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3265</id>
+		<FirstName>Robert Wilson</FirstName>
+		<LastName>Driver</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7177101919</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>8</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3266</id>
+		<FirstName>Room boards</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>*536#</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3267</id>
+		<FirstName>Router</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7172866694</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3268</id>
+		<FirstName>Ruthie Fisher</FirstName>
+		<LastName>194 Hess RD, Leola</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7178741500</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3281</id>
+		<FirstName>SBD</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>25869</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3284</id>
+		<FirstName>SD conference ID</FirstName>
+		<LastName>MWCL</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>481428</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3285</id>
+		<FirstName>SD conference line</FirstName>
+		<LastName>MWCL</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>7124323990</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3286</id>
+		<FirstName>SD moderator ID</FirstName>
+		<LastName>MWCL</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>479860</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3296</id>
+		<FirstName>STEVEN</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177251383</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3269</id>
+		<FirstName>Sadie &amp; Susie King</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7178062099</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>4</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3270</id>
+		<FirstName>Sam</FirstName>
+		<LastName>Ammon&apos;s</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>2703503369</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3271</id>
+		<FirstName>Sam @</FirstName>
+		<LastName>Stoltzfus Power</LastName>
+		<RingtoneUrl>ring3.ogg</RingtoneUrl>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7173271053</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>5</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3272</id>
+		<FirstName>Sam David</FirstName>
+		<LastName>Personal</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4844755235</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<address/>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3273</id>
+		<FirstName>Sam Dezik</FirstName>
+		<LastName>ABC</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>3024195232</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>9</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3274</id>
+		<FirstName>Sam Fisher</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7175755309</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3275</id>
+		<FirstName>Sam Zook</FirstName>
+		<LastName>Sweetwater Sales</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4847963231</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3276</id>
+		<FirstName>Samuel &amp; Sadie</FirstName>
+		<LastName>(Cuz)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7174165725</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Phone type="Cell">
+			<phonenumber>7179510167</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3277</id>
+		<FirstName>Samuel Beiler</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7173924136</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>3</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3278</id>
+		<FirstName>Samuel H</FirstName>
+		<LastName>Cuz</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7174810552</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>14</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3279</id>
+		<FirstName>Samuel Smoker</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>7174001410</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>3</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3280</id>
+		<FirstName>Samuel Zook</FirstName>
+		<LastName>Buddy</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>4845120381</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>2</Group>
+		<Group>3</Group>
+		<Group>6</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3282</id>
+		<FirstName>Schneider Electric</FirstName>
+		<LastName>Solar Department</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8333918640</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3283</id>
+		<FirstName>Scott Riddel</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4843196751</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3287</id>
+		<FirstName>Server</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>@powerstream.outbacktech.net</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3288</id>
+		<FirstName>Shane @</FirstName>
+		<LastName>Spokes of Hope</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>3305185194</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3289</id>
+		<FirstName>Shop @</FirstName>
+		<LastName>Stoltzfus Power</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7173273519</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>5</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3290</id>
+		<FirstName>Sim</FirstName>
+		<LastName>(Pud)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7177231754</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3291</id>
+		<FirstName>Simon Graber</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>8127870594</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3292</id>
+		<FirstName>Solar Freeze</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2604994973</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3293</id>
+		<FirstName>Staples order stat</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>655555</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3294</id>
+		<FirstName>State College Tree</FirstName>
+		<LastName>, Aaron</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8146637510</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>6</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3295</id>
+		<FirstName>Stephie</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>4847985252</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3297</id>
+		<FirstName>Stoltfus MFG</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>6102733603</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3298</id>
+		<FirstName>Stoltzfus MFG</FirstName>
+		<LastName>Plasma Shop</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>6102733246</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3299</id>
+		<FirstName>Stoltzfus Power</FirstName>
+		<LastName>Fax</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7179903441</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3300</id>
+		<FirstName>Straight Talk</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8668061840</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3301</id>
+		<FirstName>Sunstone formulas</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>3856850880</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3302</id>
+		<FirstName>Support</FirstName>
+		<RingtoneUrl>ring8.ogg</RingtoneUrl>
+		<Frequent>0</Frequent>
+		<Phone type="Home">
+			<phonenumber>Support#</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3303</id>
+		<FirstName>Sweet Water Sales</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>4847963132</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3304</id>
+		<FirstName>T-Mobile</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8009378997</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3305</id>
+		<FirstName>TAWG</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7172839077</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3306</id>
+		<FirstName>TEST NUMBER</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7179997804</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3307</id>
+		<FirstName>TheFurniture Platz</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>6109981352</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3308</id>
+		<FirstName>Tim Wiki</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>2316799668</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3310</id>
+		<FirstName>Tod Mast</FirstName>
+		<LastName>Mill Creek MFG</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>4847983653</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3311</id>
+		<FirstName>Todd Booze</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7174711581</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3312</id>
+		<FirstName>Trailer (N)</FirstName>
+		<LastName>Stoltzfus Power</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7173270501</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>5</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3313</id>
+		<FirstName>Tremp</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7324797080</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>8</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3314</id>
+		<FirstName>Tri County Coating</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>6102733044</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3315</id>
+		<FirstName>Ty Reynolds</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>5704492324</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3316</id>
+		<FirstName>US Mobile</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8782050088</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3318</id>
+		<FirstName>VOIP.MS</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>8777864767</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3317</id>
+		<FirstName>Voice number</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Cell">
+			<phonenumber>7177239343</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3324</id>
+		<FirstName>WL Zimmerman </FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177688291</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3319</id>
+		<FirstName>Wake up call</FirstName>
+		<RingtoneUrl>ring6.ogg</RingtoneUrl>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>*68</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3320</id>
+		<FirstName>Weaver Enterprize</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7174882203</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3321</id>
+		<FirstName>Weaver Town</FirstName>
+		<LastName>Coach</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177683299</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3322</id>
+		<FirstName>White Horse Machin</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7177688313</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3323</id>
+		<FirstName>Witmer Motor Servi</FirstName>
+		<LastName>Vendor</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7173362949</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+	</Contact>
+	<Contact>
+		<id>3325</id>
+		<FirstName>Yodeling hotline</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Conference">
+			<phonenumber>12608</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3326</id>
+		<FirstName>ZONA</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>3306741750</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+	<Contact>
+		<id>3093</id>
+		<FirstName>eMyPeople</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>7172770200</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>7</Group>
+		<Primary>0</Primary>
+		<organization/>
+		<address/>
+	</Contact>
+</AddressBook>
